@@ -39,6 +39,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### Results the preview
+- 🚀 首页 ![首页](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E9%A6%96%E9%A1%B5.png)
+- 🚀 城市列表 ![城市列表](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8.png)
+- 🚀 地图找房 ![地图找房](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E5%9C%B0%E5%9B%BE%E6%89%BE%E6%88%BF.png)
+- 🚀 小区房源 ![小区房源](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E5%9C%B0%E5%9B%BE%E6%89%BE%E6%88%BF-%E5%B0%8F%E5%8C%BA%E7%BA%A7%E6%88%BF%E6%BA%90.png)
+- 🚀 房屋列表 ![房屋列表](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E6%88%BF%E5%B1%8B%E5%88%97%E8%A1%A8.png)
+- 🚀 房屋详情 ![房屋详情](https://github.com/Aug-Turkey/react-hkzf/blob/master/src/assets/%E6%88%BF%E5%B1%8B%E8%AF%A6%E6%83%85.png)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
